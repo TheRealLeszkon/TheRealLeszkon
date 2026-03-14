@@ -1,5 +1,5 @@
 <h1 align="center">Michael Kevin</h1>
-<h3 align="center">💻 Software Developer | Java Full Stack | Web & Cloud Enthusiast</h3>
+<h3 align="center">💻 Software Developer | Full Stack | Web & Cloud Enthusiast</h3>
 
 ---
 
@@ -32,7 +32,7 @@
 - Full Stack Java Development  
 - Cloud-Based Web Applications  
 - Agentic & AI-driven Systems  
-- UI/UX experimentation using Figma  
+- Mobile Application Development with kotlin
 
 ---
 
